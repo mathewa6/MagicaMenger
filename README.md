@@ -2,6 +2,8 @@
 
 A Python/numpy implementation of the Menger Sponge/Cube designed to work with MagicaVoxel.
 
+<img src="https://raw.githubusercontent.com/mathewa6/MagicaMenger/master/images/image3.png" align = "center">
+
 ## Modules
 
 - [pyvox](https://github.com/gromgull/py-vox-io)
